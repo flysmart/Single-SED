@@ -2,8 +2,8 @@
 Practical for AI
 <br><br><br><br>
 **训练模型**<br>
-运行`python preprocessing/preprocessingESC.py --csv_file ./data/ESC-50/meta/esc50.csv --data_dir  ./data/ESC-50/audio/ --store_dir ./predata/ --sampling_rate 44100`进行数据预处理<br>
-运行`python train.py --config_path ./config/esc_densenet.json`开始训练模型<br>
+数据预处理：运行`python preprocessing/preprocessingESC.py --csv_file ./data/ESC-50/meta/esc50.csv --data_dir  ./data/ESC-50/audio/ --store_dir ./predata/ --sampling_rate 44100`<br>
+开始训练模型：运行`python train.py --config_path ./config/esc_densenet.json`<br>
 <br><br><br><br>
 **训练结果**<br>
 <br>
