@@ -11,6 +11,5 @@ Practical for AI
 ![image](https://github.com/flysmart/Single-SED/assets/66983043/30afd1c9-f788-43c9-9e44-dec57774c7d6#pic_center)<br>
 ![image](https://github.com/flysmart/Single-SED/assets/66983043/41fda1e3-a0f0-4cba-adef-20a6bdcb20eb#pic_center)<br>
 <br><br><br><br>
-PS:源代码作者<br>
-[Rethinking CNN Models for Audio Classification](https://github.com/kamalesh0406/Audio-Classification)<br>
+PS:源代码作者:[Rethinking CNN Models for Audio Classification](https://github.com/kamalesh0406/Audio-Classification)<br>
 侵删
