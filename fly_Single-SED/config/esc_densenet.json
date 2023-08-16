@@ -1,0 +1,20 @@
+{
+	"dataset_name": "ESC",
+	"data_dir": "./predata/",
+	"dataaug": false,
+	"pretrained": false,
+	"scheduler": true,
+	"model": "cnn",
+	"batch_size": 32,
+	"num_workers": 2,
+	"epochs": 70,
+	"lr": 1e-4,
+    "weight_decay": 1e-3,
+    "num_folds": 5,
+    "checkpoint_dir": "./",
+	"input_size":128,
+	"hidden_size":512,
+	"num_layer":2,
+	"num_classes":50,
+	"num_chanel" :3
+}
